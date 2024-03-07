@@ -22,6 +22,4 @@
 
 
 
-
-[<img src="https://github.com/Sankalp0022/Sankalp0022/assets/143333775/83606352-29b2-489d-b5cd-4e36c487d38d" height="400" width="80%">](https://github.com/Sankalp0022)
-
+[<img src="https://github.com/Sankalp0022/Sankalp0022/assets/143333775/4f9cb3e5-9fdb-4a97-9d0d-21934f8680f5" height="300" width="100%">](https://github.com/Sankalp0022)
