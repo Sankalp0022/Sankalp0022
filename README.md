@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **React js, Machine learning data science**
+- 💬 Ask me about **React js, Machine learning, Data Science**
 
 - 📫 How to reach me **sankalp2512@gmail.com**
 
